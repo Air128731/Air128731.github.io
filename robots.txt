@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://air128731.github.io/sitemap/sitemap-index.xml
+Host: https://air128731.github.io
